@@ -4,7 +4,7 @@ An ASC is one of the base concepts of ISO 27034. An ASC is simply a control to p
 
 Even though ASCs use contexts to derive when they apply to a particular product, not every product we build has the same need for security controls. For example, an internal-facing application with no sensitive data (e.g. ScanStation) has a very different risk profile than a web-facing application with customers’ personally identifiable information (e.g. BetterOff). For this reason, ISO 27034 introduces the concept of Levels of Trust. Each ASC we create will have one or more levels of trust.
 
-The following items are illustrative examples of ASCs which we follow. Subsequent pages will address each one in more detail and record our approach and/or actions to each.
+The following items are illustrative examples of ASCs which we follow. Subsequent pages will address each one in more detail and record our approach and/or actions to each. By virtue of being a library, more will be added over time and some may be removed. 
 
 ## Authentication
 
