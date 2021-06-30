@@ -13,7 +13,6 @@ Employees are required to pass multi factor authentication before gaining access
 #### Passcode ~ A numeric password such as a personal identification number (pin).
 #### Password ~ A user created string of characters.
 #### Challenge / Response ~ Answers to challenge questions that may include obscure personal information.
-#### Magnetic Stripe Cards ~ Cards that contain data such as identification numbers written on magnetic storage media. May include other security features such as an employee id card with a photo on the front.
 
 
 ## Audit Trail
