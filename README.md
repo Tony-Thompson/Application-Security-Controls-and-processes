@@ -1,6 +1,6 @@
-# Application-Security-Controls-and-processes
+# Application Security Control (ASC)
 
-Application security controls are actions that we take as a matter of process, procedure or automation to reduce security risks. They may be identified by security audits or as a part of projects and continuous improvement. The following are illustrative examples of IT security controls.
+An ASC is one of the base concepts of ISO 27034. An ASC is simply a control to prevent a security weakness within an application. For example, “binding variables in SQL statements” is an application security control to prevent SQL injection  —  a common application security weakness. ASCs are actions that we take as a matter of process, procedure or automation to reduce security risks. They may be identified by security audits or as a part of projects and continuous improvement. The following are illustrative examples of ASCs which we follow. Subsequent pages will address each one in detail and record our approach and actions to each
 
 ## Authentication
 
