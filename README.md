@@ -21,7 +21,7 @@ Beyond information that is automatically recorded by technology, it is common fo
 
 ## Training
 
-Employees are trained in defensing computing on an annual basis.
+Employees are trained in defensing computing on an annual basis. This includes exposure to cyber and information governance training suites, Cyber Essentials Plus accreditation and CISP membership
 
 ## Peer Review
 
@@ -29,7 +29,7 @@ Design changes to a critical system require a secure code review.
 
 ## Communication
 
-Employees are prohibited from attaching documents to internal emails as they can easily be misaddressed. Instead, employees send a link to a document management system that offers authentication and authorization.
+Employees are prohibited from attaching documents to  emails as they can easily be misaddressed. Instead, employees send a link to a document management system that offers the appropriate authentication and authorization.
 
 ## Incident Management
 
