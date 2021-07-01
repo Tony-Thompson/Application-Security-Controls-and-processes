@@ -10,7 +10,7 @@ To assist us in making the appropriate selection of security controls for our pr
 
 Here is a listing of the security control baselines
 
-Security Control Prioritisation Codes
+## Security Control Prioritisation Codes
 
 | Priority Code| Sequencing | Action |
 | ----------- | ----------- | ----------- |
