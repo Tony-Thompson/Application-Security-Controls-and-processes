@@ -1,4 +1,4 @@
-# BETTEROFF CONTROLS
+# BetterOff Controls
 
 Patching
 Implement a Web Application Firewall (WAF)
