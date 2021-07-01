@@ -6,6 +6,19 @@ Even though ASCs use contexts to derive when they apply to a particular product,
 
 The following items are illustrative examples of ASCs which we follow. Subsequent pages will address each one in more detail and record our approach and/or actions to each. By virtue of being a library, more will be added over time and some may be removed. 
 
+To assist us in making the appropriate selection of security controls for our products, the concept of baseline controls is introduced. Baseline controls are the starting point for the security control selection process described in this document and are chosen based on the security category and associated impact level of information systems determined in accordance with FIPS Publication 199 and FIPS Publication 200, respectively.
+
+Here is a listing of the security control baselines
+
+Security Control Prioritisation Codes
+
+| Priority Code| Sequencing | Action |
+| ----------- | ----------- | ----------- |
+| Priority Code 1 (P1)  | FIRST       |Implement P1 security controls first.      |
+| Priority Code 2 (P2)  | NEXT | Implement P2 security controls after implementation of P1 controls. |
+| Priority Code 3 (P3) | LAST | Implement P3 security controls after implementation of P1 and P2 controls. |
+| Unspecified Priority Code (P0) | NONE | Security control not selected in any baseline. |
+
 ## Authentication
 
 Employees are required to pass multi factor authentication before gaining access to Looking Local resources. Multi-factor authentication is a process of verifying identity using at least two independent factors including what a person knows, possesses and physical attributes of a person such as their voice. The following are common factors that are used in multi-factor authentication processes.
